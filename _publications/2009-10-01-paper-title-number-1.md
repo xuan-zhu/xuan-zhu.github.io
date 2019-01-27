@@ -12,4 +12,4 @@ This research examined how realism and current behavior influence message recept
 
 <!--[Download paper here](http://xuanzhuhealthcomm.github.io/files/paper1.pdf)-->
 
-Recommended citation: Nelson MR, Zhu X, Li Y, Fiese B, Koester B. Get real: How current behavior influences perceptions of realism and behavioral intent for public service announcements. <i>Health Communication</i>. 2015; 30(7):669-679. doi: 10.1080/10410236.2014.894425.
+Recommended citation: Nelson MR, Zhu X, Li Y, Fiese B, Koester B. Get real: How current behavior influences perceptions of realism and behavioral intent for public service announcements. <i>Health Communication</i>. 2015; 30(7):669-679. doi:10.1080/10410236.2014.894425.
