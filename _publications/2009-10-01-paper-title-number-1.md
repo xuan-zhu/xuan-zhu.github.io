@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Get real: How current behavior influences perceptions of realism and behavioral intent for public service announcements"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/2014-08-04-paper-title-number-1
+<!--excerpt: 'xx'-->
+date: 2014-08-04
+venue: 'Health Communication'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Nelson MR, **Zhu X**, Li Y, Fiese B, Koester B. Get real: How current behavior influences perceptions of realism and behavioral intent for public service announcements. <i>Health Communication</i>. 2015; 30(7):669-679. doi: 10.1080/10410236.2014.894425'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This research examined how realism and current behavior influence message reception and processing for public service announcements (PSAs) designed to help parents with meal planning. Findings from 19 in-depth interviews revealed that the perceived realism of the message, the similarity, and the wishful identification with informants' lives influenced message acceptance, in line with the Message Interpretation Process (MIP) model. Results of an online survey with mothers show that realism matters more for those individuals who already engage in the featured behavior. In line with theory, "experts" (meal planners) show increased behavioral intent of the featured behaviors when viewing the more realistic PSA.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+<!--[Download paper here](http://xuanzhuhealthcomm.github.io/files/paper1.pdf)-->
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Nelson MR, Zhu X, Li Y, Fiese B, Koester B. Get real: How current behavior influences perceptions of realism and behavioral intent for public service announcements. <i>Health Communication</i>. 2015; 30(7):669-679. doi: 10.1080/10410236.2014.894425.
