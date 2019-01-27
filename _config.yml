@@ -172,15 +172,15 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  work-in-progress:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+ # portfolio:
+ #   output: true
+ #   permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -206,10 +206,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _work-in-progress
   - scope:
       path: ""
-      type: teaching
+      type: work-in-progress
     values:
       layout: single
       author_profile: true
@@ -225,14 +225,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  #- scope:
+  #    path: ""
+  #    type: portfolio
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comment: true
   # _talks
   - scope:
       path: ""
