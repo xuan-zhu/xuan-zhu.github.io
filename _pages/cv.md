@@ -41,3 +41,9 @@ Presentations
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+Work in Progress
+------
+  <ul>{% for post in site.work-in-progress %}
+    {% include archive-single-work-in-progress-cv.html %}
+  {% endfor %}</ul>
