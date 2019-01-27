@@ -2,7 +2,6 @@
 title: "Get real: How current behavior influences perceptions of realism and behavioral intent for public service announcements"
 collection: publications
 permalink: /publication/2014-08-04-paper-title-number-1
-excerpt: 
 date: 2014-08-04
 venue: 'Health Communication'
 paperurl: 'http://xuanzhuhealthcomm.github.io/files/paper1.pdf'
