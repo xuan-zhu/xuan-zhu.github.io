@@ -10,50 +10,34 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+------
+* Ph.D. in Mass Communication, graduate minor in Public Health, University of Minnesota, Twin Cities, 2017
+* M.A. in Advertising, University of Illinois, Urbana-Champaign, 2012
+* B.A. in Advertising, Xi’an International Studies University, 2010
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Research Interests
+------
+Health communication; Health psychology; Behavioral theory guided health message design and evaluation; Patient-centered communication; Health disparities; Genetic communication; Cancer communication 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Academic Employment
+------
+* **Postdoctoral Research Fellow** (08/2017 -- Present)  
+  * Mayo Clinic, Department of Health Sciences Research, Division of Health Care Policy and Research
+  * Mentor: Carmen Radecki Breitkopf, Ph.D.
+
+* **Graduate Teaching Assistant** (09/2013 -- 05/2016)
+  * University of Minnesota, School of Journalism and Mass Communication
+  * Courses: JOUR 3005 (Mass Media Effects); JOUR 5541/PubH 6074 (Mass Communication and Public Health); 
+JOUR 3004W (Information for Mass Communication); JOUR 1501 (Digital Games, Sims and Apps: Storytelling, Play, and Commerce); JOUR 4274W (Advertising in Society); JOUR 3745 (Mass Media and Popular Culture); JOUR 1001 (Introduction to Mass Communication)
 
 Publications
-======
+------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+Presentations
+------
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
