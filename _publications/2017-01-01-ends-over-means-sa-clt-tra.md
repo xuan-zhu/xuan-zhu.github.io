@@ -1,7 +1,7 @@
 ---
 title: "Ends over means: Self-affirmation strengthens attitudinal and weakens perceived control effects on behavioral intention"
 collection: publications
-permalink: /publication/2017-01-01-current-behavior-influence-realism-psa-percep-hc
+permalink: /publication/2017-01-01-ends-over-means-sa-clt-tra
 excerpt: 'Integrating construal level theory and reasoned action theory, this research tested two hypotheses: first, self-affirmation affects the abstractness of how people construe behavioral choices, and second, self-affirmation influences the associations between intention and its key determinants.'
 date: 2017-01-01
 venue: 'Media Psychology'
