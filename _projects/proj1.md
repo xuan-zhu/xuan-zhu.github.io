@@ -1,6 +1,6 @@
 ---
 title: "Proj 1"
-collection: work in progress
+collection: projects
 type: "xxx"
 permalink: /projects/proj-1
 venue: "University 1, Department"
