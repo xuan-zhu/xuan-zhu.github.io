@@ -14,7 +14,7 @@ redirect_from:
 <h1 align="center"><b>Xuan Zhu</b></h1>
 <p align="center">Postdoctoral Research Fellow<br>
 Department of Health Sciences Research | Mayo Clinic | Rochester, MN 55905<br>
-zhu.xuan@mayo.edu | <a href="https://zhu-xuan.github.io" target="_blank">zhu-xuan.github.io</a></p>
+zhu.xuan@mayo.edu | <a href="https://xuan-zhu.github.io" target="_blank">xuan-zhu.github.io</a></p>
 ---
 
 Education
