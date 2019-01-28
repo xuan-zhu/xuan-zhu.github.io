@@ -128,7 +128,7 @@ Additional Skill Trainings
 * Digital Arts Sciences + Humanities (DASH) Graduate Students Summer Camp (08/2014) 
   * University of Minnesota Libraries, University of Minnesota
 
-* Computing for Data Analysis
+* Computing for Data Analysis (08/2012 -- 09/2012)
   * <a href="https://www.coursera.org" target="_blank">www.coursera.org</a>	
   * Instructor: Roger D. Peng, Ph.D., Johns Hopkins University
 
