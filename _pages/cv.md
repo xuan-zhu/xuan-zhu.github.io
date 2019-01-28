@@ -59,8 +59,7 @@ Teaching Experience
     * JOUR 1001: Introduction to Mass Communication (Spring 2016; Spring 2015; Fall 2014)
   
   * **Guest Lecture**
-    * In JOUR 5542: Theory-Based Health Message Design (Spring 2016) 
-      * Title: Self-affirmation: How is it done, how it works, and does it work for everyone?
+    * *Self-affirmation: How is it done, how it works, and does it work for everyone?* In JOUR 5542: Theory-Based Health Message Design (Spring 2016)
 
 Awards & Fellowships
 ------
@@ -123,15 +122,15 @@ Additional Skill Trainings
 
 Professional Affiliations
 ------
-International Communication Association (ICA); Society of Behavioral Medicine (SBM); Kentucky Conference on Health Communication (KCHC); D.C. Health Communication Conference (DCHC); American Public Health Association (APHA); Association for Education in Journalism and Mass Communication (AEJMC); Kappa Tau Alpha (KTA), the national honor society for journalism and mass communication
+Society of Behavioral Medicine (SBM); International Communication Association (ICA); National Communication Association (NCA); Kentucky Conference on Health Communication (KCHC); D.C. Health Communication Conference (DCHC); American Public Health Association (APHA); Association for Education in Journalism and Mass Communication (AEJMC); Kappa Tau Alpha (KTA), the national honor society for journalism and mass communication
 
 Professional Skills
 ------
-* Research design: experiment, survey, in-depth interview, focus group, content analysis
-* Data analysis: statistical analysis (regression models, structural equation modeling, multivariate analysis, mediation and moderation analyses, factor analysis, large-scale survey data analysis); thematic analysis of texts
-* Software/Programming: SPSS, R, NVivo, LIWC, Qualtrics, mTurk, Radian6, HTML, CSS, Photoshop
-* Languages: English, Chinese 
-* Other: graphic design 
+* **Research design:** experiment, survey, in-depth interview, focus group, content analysis
+* **Data analysis:** statistical analysis (regression models, structural equation modeling, multivariate analysis, mediation and moderation analyses, factor analysis, large-scale survey data analysis); thematic analysis of texts
+* **Software/Programming:** SPSS, R, NVivo, LIWC, Qualtrics, mTurk, Radian6, HTML, CSS, Photoshop
+* **Languages:** English, Chinese 
+* **Other:** graphic design 
 
 
   
