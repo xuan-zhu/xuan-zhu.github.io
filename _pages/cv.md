@@ -9,6 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+<a style="line-height: 1.5;" href="xxxx"><span style="color: #333333;"><span style="font-size: medium;">Download the PDF version here.</span></span></a>
+
+<h1 align="center"><b>Xuan Zhu</b></h1>
+<p align="center"><b>Research Fellow</b></p>
+<p align="center">Division of Health Care Policy & Research | Department of Health Sciences Research</p>
+<p align="center">Mayo Clinic | 200 First Street SW | Rochester, MN 55905</p>
+<p align="center">zhu.xuan@mayo.edu | <a href="https://xuanzhuhealthcomm.github.io" target="_blank">xuanzhuhealthcomm.github.io</a></p>
+---
+
 Education
 ------
 * Ph.D. in Mass Communication, graduate minor in Public Health, University of Minnesota, Twin Cities, 2017
