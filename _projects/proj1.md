@@ -1,9 +1,9 @@
 ---
 title: "Proj 1"
+excerpt: "description"
 collection: projects
 type: "xxx"
 permalink: /projects/proj-1
-venue: "University 1, Department"
 ---
 
 This is a description of a project. You can use markdown like any other post.
