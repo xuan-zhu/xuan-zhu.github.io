@@ -2,7 +2,7 @@
 title: "Proj 1"
 collection: work in progress
 type: "xxx"
-permalink: /current-work/proj-1
+permalink: /projects/proj-1
 venue: "University 1, Department"
 date: 2019-01-01
 location: "City, Country"
