@@ -1,6 +1,6 @@
 ---
-title: ""
-excerpt: "Pancreatic cancer and melanoma related perceptions and behaviors following disclosure of <i>CDKN2A</i> variant status"
+title: "Pancreatic cancer and melanoma related perceptions and behaviors following disclosure of <i>CDKN2A</i> variant status"
+excerpt: "Revise & Resubmit"
 collection: projects
 permalink: /projects/LARGO1
 ---
