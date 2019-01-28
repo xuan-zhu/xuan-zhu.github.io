@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="xxxx" target="_blank">Download the PDF version here.</a>
+<a href="xxxx" target="_blank">Download the PDF version here</a>
 
 <h1 align="center"><b>Xuan Zhu</b></h1>
 <p align="center">Postdoctoral Research Fellow<br>
