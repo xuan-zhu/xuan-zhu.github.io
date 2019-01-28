@@ -5,8 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-I figured it out
-
 {% include base_path %}
 
 {% for post in site.projects reversed %}
