@@ -172,7 +172,7 @@ kramdown:
 
 # Collections
 collections:
-  work-in-progress:
+  projects:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -206,10 +206,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _work-in-progress
+  # _projects
   - scope:
       path: ""
-      type: work-in-progress
+      type: projects
     values:
       layout: single
       author_profile: true
