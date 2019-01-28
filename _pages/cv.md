@@ -107,28 +107,28 @@ Awards & Fellowships
 
 Additional Skill Trainings
 ------
-* CTSC 6170: The Science of Team Science -- Strategies for Success (09/2018 -- 12/2018)
+* **CTSC 6170: The Science of Team Science -- Strategies for Success** (09/2018 -- 12/2018)
   * Center for Clinical and Translationsl Science, Mayo Clinic
   * Instructors: Heather Billings, Ph.D.; Alexandra Greenberg-Worisek, Ph.D., M.P.H
   
-* Novel Experimental Approaches to Designing Effective Multi-Component Interventions (04/2018)
+* **Novel Experimental Approaches to Designing Effective Multi-Component Interventions** (04/2018)
   * Pre-Conference Course, Society of Behavioral Medicine Annual Meeting, New Orleans, LA.
   * Instructors: Linda Collins, Ph.D., The Pennsylvania State University; Susan Murphy, Ph.D., University of Michigan; Inbal Nahum-Shani, Ph.D., University of Michigan
   
-* Structural Equation Model and its Applications (12/2017 -- 02/2018) 
+* **Structural Equation Model and its Applications** (12/2017 -- 02/2018) 
   * <a href="https://www.coursera.org/learn/jiegou-fangcheng-moxing" target="_blank">www.coursera.org/learn/jiegou-fangcheng-moxing</a>
   * Instructor: Kit Tai Hau, Ph.D., The Chinese University of Hong Kong
 
-* Collaborative Leadership and Grand Challenges Research Seminar Series (2016 -- 2017)
+* **Collaborative Leadership and Grand Challenges Research Seminar Series** (2016 -- 2017)
   * Graduate School, University of Minnesota
 
-* Research Data Management Graduate Students Summer Camp (08/2016)
+* **Research Data Management Graduate Students Summer Camp** (08/2016)
   * University of Minnesota Libraries, University of Minnesota
 
-* Digital Arts Sciences + Humanities (DASH) Graduate Students Summer Camp (08/2014) 
+* **Digital Arts Sciences + Humanities (DASH) Graduate Students Summer Camp** (08/2014) 
   * University of Minnesota Libraries, University of Minnesota
 
-* Computing for Data Analysis (08/2012 -- 09/2012)
+* **Computing for Data Analysis** (08/2012 -- 09/2012)
   * <a href="https://www.coursera.org" target="_blank">www.coursera.org</a>	
   * Instructor: Roger D. Peng, Ph.D., Johns Hopkins University
 
