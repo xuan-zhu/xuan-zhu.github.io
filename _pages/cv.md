@@ -99,7 +99,11 @@ Awards & Fellowships
 
 Additional Skill Trainings
 ------
-* Novel Experimental Approaches to Designing Effective Multi-Component Interventions (04/05/2018)
+* CTSC 6170: The Science of Team Science -- Strategies for Success (09/2018 -- 12/2018)
+  * Center for Clinical and Translationsl Science, Mayo Clinic
+  * Instructors: Heather Billings, Ph.D.; Alexandra Greenberg-Worisek, Ph.D., M.P.H
+  
+* Novel Experimental Approaches to Designing Effective Multi-Component Interventions (04/2018)
   * Pre-Conference Course, Society of Behavioral Medicine Annual Meeting, New Orleans, LA.
   * Instructors: Linda Collins, Ph.D., The Pennsylvania State University; Susan Murphy, Ph.D., University of Michigan; Inbal Nahum-Shani, Ph.D., University of Michigan
   
