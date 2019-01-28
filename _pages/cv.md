@@ -12,10 +12,10 @@ redirect_from:
 <a href="xxxx"><span style="color: #333333;"><span style="font-size: medium;">Download the PDF version here.</span></span></a>
 
 <h1 align="center"><b>Xuan Zhu</b></h1>
-<span align="center">Postdoctoral Research Fellow</span>
-<span align="center">Division of Health Care Policy & Research | Department of Health Sciences Research</span>
-<span align="center">Mayo Clinic | 200 First Street SW | Rochester, MN 55905</span>
-<span align="center">zhu.xuan@mayo.edu | <a href="https://xuanzhuhealthcomm.github.io" target="_blank">xuanzhuhealthcomm.github.io</a></span>
+<p align="center">Postdoctoral Research Fellow<br>
+Division of Health Care Policy & Research | Department of Health Sciences Research<br>
+Mayo Clinic | 200 First Street SW | Rochester, MN 55905<br>
+zhu.xuan@mayo.edu | <a href="https://xuanzhuhealthcomm.github.io" target="_blank">xuanzhuhealthcomm.github.io</a></p>
 ---
 
 Education
