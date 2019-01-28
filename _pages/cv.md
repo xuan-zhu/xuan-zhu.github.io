@@ -44,6 +44,6 @@ Presentations
 
 Work in Progress
 ------
-  <ul>{% for post in site.work-in-progress %}
-    {% include archive-single-work-in-progress-cv.html %}
+  <ul>{% for post in site.projects %}
+    {% include archive-single-projects-cv.html %}
   {% endfor %}</ul>
