@@ -108,7 +108,7 @@ Awards & Fellowships
 Additional Skill Trainings
 ------
 * **CTSC 6170: The Science of Team Science -- Strategies for Success** (09/2018 -- 12/2018)
-  * Center for Clinical and Translationsl Science, Mayo Clinic
+  * Center for Clinical and Translational Science, Mayo Clinic
   * Instructors: Heather Billings, Ph.D.; Alexandra Greenberg-Worisek, Ph.D., M.P.H
   
 * **Novel Experimental Approaches to Designing Effective Multi-Component Interventions** (04/2018)
