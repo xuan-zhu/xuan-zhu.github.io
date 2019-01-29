@@ -19,9 +19,12 @@ zhu.xuan@mayo.edu | <a href="https://xuan-zhu.github.io" target="_blank">xuan-zh
 
 Education
 ------
-* Ph.D. in Mass Communication, graduate minor in Public Health, University of Minnesota, Twin Cities, 2017
-* M.A. in Advertising, University of Illinois at Urbana-Champaign, 2012
-* B.A. in Advertising, Xi’an International Studies University, China, 2010
+* Ph.D. in Mass Communication, graduate minor in Public Health -- 2017
+  * University of Minnesota, Twin Cities 
+* M.A. in Advertising -- 2012 
+  * University of Illinois at Urbana-Champaign
+* B.A. in Advertising -- 2010 
+  * Xi’an International Studies University, China
 
 Research Interests
 ------
