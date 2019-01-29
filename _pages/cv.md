@@ -58,16 +58,16 @@ Teaching Experience
 ------
 * **University of Minnesota** 
   * **Teaching Assistantships**
-    * JOUR 3005: Mass Media Effects (Spring 2016)
-    * JOUR 5541/PubH 6074: Mass Communication and Public Health (Fall 2015)
-    * JOUR 3004W: Information for Mass Communication (Fall 2015)
-    * JOUR 1501: Digital Games, Sims and Apps: Storytelling, Play, and Commerce (Spring 2015)
-    * JOUR 4274W : Advertising in Society (Spring 2014)  
-    * JOUR 3745: Mass Media and Popular Culture (Spring 2014; Fall 2013)
-    * JOUR 1001: Introduction to Mass Communication (Spring 2016; Spring 2015; Fall 2014)
+    * Mass Media Effects (Spring 2016)
+    * Mass Communication and Public Health (Fall 2015)
+    * Information for Mass Communication (Fall 2015)
+    * Digital Games, Sims and Apps: Storytelling, Play, and Commerce (Spring 2015)
+    * Advertising in Society (Spring 2014)  
+    * Mass Media and Popular Culture (Spring 2014; Fall 2013)
+    * Introduction to Mass Communication (Spring 2016; Spring 2015; Fall 2014)
   
   * **Guest Lecture**
-    * *Self-affirmation: How is it done, how it works, and does it work for everyone?* In JOUR 5542: Theory-Based Health Message Design (Spring 2016)
+    * *Self-affirmation: How is it done, how it works, and does it work for everyone?* In Theory-Based Health Message Design (Spring 2016)
 
 Awards & Fellowships
 ------
