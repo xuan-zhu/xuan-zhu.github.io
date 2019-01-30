@@ -28,7 +28,7 @@ Education
 
 Research Interests
 ------
-Health communication; Health psychology; Behavioral theory guided health message design and evaluation; Patient-centered communication; Health disparities; Genetic communication; Cancer communication 
+Social and behavioral science; Health communication; Health psychology; Behavioral theory guided health message design and evaluation; Patient-centered communication; Health disparities; Genetic communication; Cancer communication 
 
 Academic Employment
 ------
