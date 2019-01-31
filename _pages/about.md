@@ -15,3 +15,5 @@ Specifically, my current research interests include 1) delineating mechanisms un
 I approach research questions from an interdisciplinary perspective that draws upon theoretical developments in communication, psychology, and public health. I use an array of social scientific methods to answer my research questions, including experiments, surveys, focus groups, and in-depth interviews.
 
 I received a PhD in mass communication from the <a href="https://cla.umn.edu/hsjmc" target="_blank">Hubbard School of Journalism and Mass Communication</a> at the University of Minnesota and a Graduate Minor in public health from the <a href="http://www.sph.umn.edu/" target="_blank">School of Public Health</a>, a MS in advertising from the <a href="https://media.illinois.edu/" target="_blank">College of Media</a> at the University of Illinois at Urbana-Champaign, and a BA in advertising from <a href="http://en.xisu.edu.cn/" target="_blank">Xi’an International Studies University</a>.
+
+In my spare time, I enjoy drawing, painting, and sewing.
