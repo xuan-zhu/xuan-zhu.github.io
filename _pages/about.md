@@ -16,4 +16,4 @@ I approach research questions from an interdisciplinary perspective that draws u
 
 I received a PhD in mass communication from the <a href="https://cla.umn.edu/hsjmc" target="_blank">Hubbard School of Journalism and Mass Communication</a> at the University of Minnesota and a Graduate Minor in public health from the <a href="http://www.sph.umn.edu/" target="_blank">School of Public Health</a>, a MS in advertising from the <a href="https://media.illinois.edu/" target="_blank">College of Media</a> at the University of Illinois at Urbana-Champaign, and a BA in advertising from <a href="http://en.xisu.edu.cn/" target="_blank">Xi’an International Studies University</a>.
 
-In my spare time, I enjoy drawing, painting, and sewing.
+In my spare time, I enjoy cooking, baking, drawing, painting, and sewing.
