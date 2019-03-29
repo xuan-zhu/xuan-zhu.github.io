@@ -5,7 +5,7 @@ permalink: /publication/2019-03-29-largo-behav-effect-gim
 excerpt: 'This study examined whether participants who learned research results related to a germline <i>CDKN2A</i> variant known to be associated with increased risk of pancreatic cancer and malignant melanoma would pursue confirmatory testing and cancer screening, share the genetic information with healthcare providers and family, and change risk perceptions.'
 date: 2019-03-29
 venue: 'Genetics in Medicine'
-citation: 'Leof E, Zhu X, Chaffee K, McCormick J, Petersen G, Radecki Breitkopf C. Pancreatic Cancer and Melanoma Related Perceptions and Behaviors Following Disclosure of <i>CDKN2A</i> Variant Status as a Research Result. <i>Genetics in Medicine</i>. In press.'
+citation: 'Leof E, Zhu X, Chaffee K, McCormick J, Petersen G, Radecki Breitkopf C. Pancreatic cancer and melanoma related perceptions and behaviors following disclosure of <i>CDKN2A</i> variant status as a research result. <i>Genetics in Medicine</i>. In press.'
 ---
 
 **Abstract:**<br>
