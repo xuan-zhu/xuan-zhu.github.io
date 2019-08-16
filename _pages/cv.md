@@ -34,7 +34,7 @@ Academic Employment
 ------
 * **Postdoctoral Research Fellow** (08/2017 -- Present)  
   * Mayo Clinic, Department of Health Sciences Research, Division of Health Care Policy and Research
-  * Mentor: Carmen Radecki Breitkopf, Ph.D.
+  * Mentors: Carmen Radecki Breitkopf, PhD (Till 04/2019); Lila Rutten, PhD (Since 05/2019)
 
 * **Graduate Teaching Assistant** (09/2013 -- 05/2016)
   * University of Minnesota, School of Journalism and Mass Communication
