@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://xuan-zhu.github.io/files/XuanZhu_CV-021219.pdf" target="_blank">View the PDF version here</a>
+<a href="https://xuan-zhu.github.io/files/XuanZhu_CV-072119.pdf" target="_blank">View the PDF version here</a>
 
 <h1 align="center"><b>Xuan Zhu</b></h1>
 <p align="center">Postdoctoral Research Fellow<br>
@@ -19,7 +19,7 @@ zhu.xuan@mayo.edu | <a href="https://xuan-zhu.github.io" target="_blank">xuan-zh
 
 Education
 ------
-* **Ph.D. in Mass Communication, Graduate Minor in Public Health -- 2017**
+* **Ph.D. in Mass Communication, Doctoral Minor in Public Health -- 2017**
   * University of Minnesota, Twin Cities 
 * **M.S. in Advertising -- 2012** 
   * University of Illinois at Urbana-Champaign
@@ -59,6 +59,10 @@ Work in Progress
 
 Teaching Experience
 ------
+* **Mayo Clinic Graduate School of Biomedical Sciences**
+  * **Guest Lecture**
+    * *Health Behavior Theory and Application* In Social and Behavioral Foundations of Health in Health Sciences Research (Spring 2019)
+
 * **University of Minnesota** 
   * **Teaching Assistantships**
     * Mass Media Effects (Spring 2016)
