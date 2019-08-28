@@ -30,7 +30,7 @@ Social and behavioral science; Health communication; Health psychology; Health d
 
 Academic Employment
 ------
-* **Postdoctoral Research Fellow** (08/2017 -- Present)  
+* **Research Fellow** (08/2017 -- Present)  
   * Mayo Clinic, Department of Health Sciences Research, Division of Health Care Policy and Research
   * Primary Mentors: Carmen Radecki Breitkopf, PhD (Till 04/2019); Lila Rutten, PhD (Since 05/2019)
     * Lead the development of survey instruments for multiple projects, including a community-based participatory research project that aims to develop cancer control plans for two American Indian communities in rural Minnesota
