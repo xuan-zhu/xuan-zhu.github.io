@@ -28,13 +28,21 @@ Education
 
 Research Interests
 ------
-Social and behavioral science; Health communication; Health psychology; Health disparities; Behavioral theory guided health message design and evaluation; Cancer risk communication; Genetic risk communication; Patient-centered communication 
+Social and behavioral science; Health communication; Health psychology; Health disparities; Cancer risk communication; Behavioral theory guided health message design and evaluation 
 
 Academic Employment
 ------
 * **Postdoctoral Research Fellow** (08/2017 -- Present)  
   * Mayo Clinic, Department of Health Sciences Research, Division of Health Care Policy and Research
   * Mentors: Carmen Radecki Breitkopf, PhD (Till 04/2019); Lila Rutten, PhD (Since 05/2019)
+    * Lead the development of survey instruments for multiple projects, including a community-based participatory research project that aims to develop cancer control plans for two American Indian communities in rural Minnesota
+    * Conduct data analysis, result interpretation, and finding reporting for multiple projects focusing on reducing cancer disparities, including projects on understanding racial and ethnic minority populations’ perspectives on cancer clinical research participation
+    * Perform statistical analyses of survey data and thematic analyses of key informant interview and focus group data for multiple projects
+    * Facilitate community survey and interview data collection
+    * Planned and designed research protocols, including surveys and experiments
+    * Prepared and submitted intramural and extramural funding applications, including a NIH R21 research project proposal as a Co-Principle Investigator
+    * Published lead and co-authored peer-reviewed articles in scholarly journals
+    * Presented research findings at national scientific conferences, including oral and poster presentations 
 
 * **Graduate Teaching Assistant** (09/2013 -- 05/2016)
   * University of Minnesota, School of Journalism and Mass Communication
