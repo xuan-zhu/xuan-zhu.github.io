@@ -12,9 +12,7 @@ redirect_from:
 <a href="https://xuan-zhu.github.io/files/XuanZhu_CV-072119.pdf" target="_blank">View the PDF version here</a>
 
 <h1 align="center"><b>Xuan Zhu</b></h1>
-<p align="center">Postdoctoral Research Fellow<br>
-Department of Health Sciences Research | Mayo Clinic | Rochester, MN<br>
-zhu.xuan@mayo.edu | <a href="https://xuan-zhu.github.io" target="_blank">xuan-zhu.github.io</a></p>
+<p align="center">zhu.xuan@mayo.edu | <a href="https://xuan-zhu.github.io" target="_blank">xuan-zhu.github.io</a></p>
 ---
 
 Education
@@ -34,7 +32,7 @@ Academic Employment
 ------
 * **Postdoctoral Research Fellow** (08/2017 -- Present)  
   * Mayo Clinic, Department of Health Sciences Research, Division of Health Care Policy and Research
-  * Mentors: Carmen Radecki Breitkopf, PhD (Till 04/2019); Lila Rutten, PhD (Since 05/2019)
+  * Primary Mentors: Carmen Radecki Breitkopf, PhD (Till 04/2019); Lila Rutten, PhD (Since 05/2019)
     * Lead the development of survey instruments for multiple projects, including a community-based participatory research project that aims to develop cancer control plans for two American Indian communities in rural Minnesota
     * Conduct data analysis, result interpretation, and finding reporting for multiple projects focusing on reducing cancer disparities, including projects on understanding racial and ethnic minority populations’ perspectives on cancer clinical research participation
     * Perform statistical analyses of survey data and thematic analyses of key informant interview and focus group data for multiple projects
