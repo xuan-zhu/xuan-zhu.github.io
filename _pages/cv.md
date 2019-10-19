@@ -32,7 +32,7 @@ Academic Employment
 ------
 * **Research Fellow** (08/2017 -- Present)  
   * Mayo Clinic, Department of Health Sciences Research, Division of Health Care Policy and Research
-  * Primary Mentors: Carmen Radecki Breitkopf, PhD (Till 04/2019); Lila Rutten, PhD (Since 05/2019)
+  * Primary Mentors: Carmen Radecki Breitkopf, PhD (Till 04/2019); Lila Finney Rutten, PhD (Since 05/2019)
     * Lead the development of survey instruments for multiple projects, including a community-based participatory research project that aims to develop cancer control plans for two American Indian communities in rural Minnesota
     * Conduct data analysis, result interpretation, and finding reporting for multiple projects focusing on reducing cancer disparities, including projects on understanding racial and ethnic minority populations’ perspectives on cancer clinical research participation
     * Perform statistical analyses of survey data and thematic analyses of key informant interview and focus group data for multiple projects
@@ -82,9 +82,17 @@ Teaching Experience
   * **Guest Lecture**
     * *Self-affirmation: How is it done, how it works, and does it work for everyone?* In Theory-Based Health Message Design (Spring 2016)
 
-Awards & Fellowships
+Grants & Competitive Funding
 ------
-* **Competitive Funding** 
+* **Ongoing Research Support** 
+  * Rural Cancer Control supplement to Mayo Clinic Comprehensive Cancer Center Support Grant (P30 CA15083-44 / P30 CA15083-45): Developing a Cancer Control Plan with Two Native Communities (Principal Investigator: Robert Diasio; 09/01/2018 –- 02/29/2020)
+    * Role: Co-Investigator
+    * This project aims to develop a comprehensive rural cancer control program collaboratively with two American Indian/Alaska Native communities in rural Minnesota to reduce cancer disparities.
+  * Time-Sharing Experiments for the Social Sciences (TESS) grant for project titled "Does Self-affirmation Influence Health Message Processing through Changing Construal Level?" 
+    * Role: Principal Investigator
+    * This survey experiment uses a manipulation-of-mediator design to test the mechanism through which self-affirmation (reflecting on one’s core values) reduces individuals’ resistance toward personally relevant health messages in a probability-based sample of US adults. Specifically, it tests whether this effect occurs because completing the self-affirmation exercise changes the level of abstractness at which individuals think about a health behavior. 
+
+* **Completed Research Support**
   * Ralph D. Casey Dissertation Research Award (2016 -- 2017) -- $5,000
     * School of Journalism and Mass Communication, University of Minnesota 
   * Doctoral Dissertation Fellowship (2016 -- 2017) -- $23,000	 
@@ -95,6 +103,18 @@ Awards & Fellowships
     *	College of Liberal Arts, University of Minnesota
   * Kriss Research Fund (2015) -- $1,000
     *	School of Journalism and Mass Communication, University of Minnesota
+
+Awards & Fellowships    
+------
+* **Scholarly Awards**  
+  * Award for Outstanding Abstract Submission (2019)
+    * Population Health Sciences Special Interest Group, Society of Behavioral Medicine
+  * Top Student Paper Award	(2016)
+    *	Health Communication Division, International Communication Association
+  * Fourth Place Student Paper Award (2015)
+    *	Communicating Science, Health, Environment, & Risk Division, Association for Education in Journalism and Mass Communication
+  * Outstanding Graduate Award (2010)
+    *	School of Journalism and Communication, Xi’an International Studies University
     
 * **Fellowships & Scholarships** 
   * Joel and Laurie Kramer School of Journalism Fund Award (2015) -- $5,000
@@ -109,14 +129,6 @@ Awards & Fellowships
     * College of Media, University of Illinois
   * Outstanding Student Scholarship	(2007; 2008; 2009)
     * School of Journalism and Communication, Xi’an International Studies University
-    
-* **Scholarly Awards**  
-  * Top Student Paper Award	(2016)
-    *	Health Communication Division, International Communication Association
-  * Fourth Place Student Paper Award (2015)
-    *	Communicating Science, Health, Environment, & Risk Division, Association for Education in Journalism and Mass Communication
-  * Outstanding Graduate Award (2010)
-    *	School of Journalism and Communication, Xi’an International Studies University
 
 Additional Skill Trainings
 ------
