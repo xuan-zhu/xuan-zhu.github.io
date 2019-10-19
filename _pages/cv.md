@@ -63,32 +63,14 @@ Work in Progress
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Teaching Experience
-------
-* **Mayo Clinic Graduate School of Biomedical Sciences**
-  * **Guest Lecture**
-    * *Health Behavior Theory and Application* In Social and Behavioral Foundations of Health in Health Sciences Research (Spring 2019)
-
-* **University of Minnesota** 
-  * **Teaching Assistantships**
-    * Mass Media Effects (Spring 2016)
-    * Mass Communication and Public Health (Fall 2015)
-    * Information for Mass Communication (Fall 2015)
-    * Digital Games, Sims and Apps: Storytelling, Play, and Commerce (Spring 2015)
-    * Advertising in Society (Spring 2014)  
-    * Mass Media and Popular Culture (Spring 2014; Fall 2013)
-    * Introduction to Mass Communication (Spring 2016; Spring 2015; Fall 2014)
-  
-  * **Guest Lecture**
-    * *Self-affirmation: How is it done, how it works, and does it work for everyone?* In Theory-Based Health Message Design (Spring 2016)
-
 Grants & Competitive Funding
 ------
 * **Ongoing Research Support** 
   * Rural Cancer Control supplement to Mayo Clinic Comprehensive Cancer Center Support Grant (P30 CA15083-44 / P30 CA15083-45): Developing a Cancer Control Plan with Two Native Communities (09/01/2018 -- 02/29/2020; Principal Investigator: Robert Diasio)
     * Role: Co-Investigator
     * This project aims to develop a comprehensive rural cancer control program collaboratively with two American Indian/Alaska Native communities in rural Minnesota to reduce cancer disparities.
-  * Time-Sharing Experiments for the Social Sciences (TESS) grant for project titled "Does Self-affirmation Influence Health Message Processing through Changing Construal Level?" (2019)
+  * Time-Sharing Experiments for the Social Sciences (TESS) grant (2019)
+    * project: Does Self-affirmation Influence Health Message Processing through Changing Construal Level? 
     * Role: Principal Investigator
     * This survey experiment uses a manipulation-of-mediator design to test the mechanism through which self-affirmation (reflecting on one’s core values) reduces individuals’ resistance toward personally relevant health messages in a probability-based sample of US adults. Specifically, it tests whether this effect occurs because completing the self-affirmation exercise changes the level of abstractness at which individuals think about a health behavior. 
 
@@ -129,6 +111,25 @@ Awards & Fellowships
     * College of Media, University of Illinois
   * Outstanding Student Scholarship	(2007; 2008; 2009)
     * School of Journalism and Communication, Xi’an International Studies University
+
+Teaching Experience
+------
+* **Mayo Clinic Graduate School of Biomedical Sciences**
+  * **Guest Lecture**
+    * *Health Behavior Theory and Application* In Social and Behavioral Foundations of Health in Health Sciences Research (Spring 2019)
+
+* **University of Minnesota** 
+  * **Teaching Assistantships**
+    * Mass Media Effects (Spring 2016)
+    * Mass Communication and Public Health (Fall 2015)
+    * Information for Mass Communication (Fall 2015)
+    * Digital Games, Sims and Apps: Storytelling, Play, and Commerce (Spring 2015)
+    * Advertising in Society (Spring 2014)  
+    * Mass Media and Popular Culture (Spring 2014; Fall 2013)
+    * Introduction to Mass Communication (Spring 2016; Spring 2015; Fall 2014)
+  
+  * **Guest Lecture**
+    * *Self-affirmation: How is it done, how it works, and does it work for everyone?* In Theory-Based Health Message Design (Spring 2016)
 
 Additional Skill Trainings
 ------
