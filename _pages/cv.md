@@ -85,7 +85,7 @@ Teaching Experience
 Grants & Competitive Funding
 ------
 * **Ongoing Research Support** 
-  * Rural Cancer Control supplement to Mayo Clinic Comprehensive Cancer Center Support Grant (P30 CA15083-44 / P30 CA15083-45): Developing a Cancer Control Plan with Two Native Communities (Principal Investigator: Robert Diasio; 09/01/2018 –- 02/29/2020)
+  * Rural Cancer Control supplement to Mayo Clinic Comprehensive Cancer Center Support Grant (P30 CA15083-44 / P30 CA15083-45): Developing a Cancer Control Plan with Two Native Communities (Principal Investigator: Robert Diasio; 09/01/2018 -- 02/29/2020)
     * Role: Co-Investigator
     * This project aims to develop a comprehensive rural cancer control program collaboratively with two American Indian/Alaska Native communities in rural Minnesota to reduce cancer disparities.
   * Time-Sharing Experiments for the Social Sciences (TESS) grant for project titled "Does Self-affirmation Influence Health Message Processing through Changing Construal Level?" 
