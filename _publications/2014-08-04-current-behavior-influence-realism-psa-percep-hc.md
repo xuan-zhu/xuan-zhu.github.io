@@ -1,7 +1,7 @@
 ---
 title: "Get real: How current behavior influences perceptions of realism and behavioral intent for public service announcements"
 collection: publications
-permalink: /publication/2015-01-01-current-behavior-influence-realism-psa-percep-hc
+permalink: /publication/2014-08-04-current-behavior-influence-realism-psa-percep-hc
 excerpt: 'This research examined how realism and current behavior influence message reception and processing for public service announcements (PSAs) designed to help parents with meal planning.'
 date: 2014-08-04
 venue: 'Health Communication'
