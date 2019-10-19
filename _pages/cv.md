@@ -88,7 +88,7 @@ Grants & Competitive Funding
   * Rural Cancer Control supplement to Mayo Clinic Comprehensive Cancer Center Support Grant (P30 CA15083-44 / P30 CA15083-45): Developing a Cancer Control Plan with Two Native Communities (09/01/2018 -- 02/29/2020; Principal Investigator: Robert Diasio)
     * Role: Co-Investigator
     * This project aims to develop a comprehensive rural cancer control program collaboratively with two American Indian/Alaska Native communities in rural Minnesota to reduce cancer disparities.
-  * Time-Sharing Experiments for the Social Sciences (TESS) grant for project titled "Does Self-affirmation Influence Health Message Processing through Changing Construal Level?" (09/13/2019 -- )
+  * Time-Sharing Experiments for the Social Sciences (TESS) grant for project titled "Does Self-affirmation Influence Health Message Processing through Changing Construal Level?" (2019)
     * Role: Principal Investigator
     * This survey experiment uses a manipulation-of-mediator design to test the mechanism through which self-affirmation (reflecting on one’s core values) reduces individuals’ resistance toward personally relevant health messages in a probability-based sample of US adults. Specifically, it tests whether this effect occurs because completing the self-affirmation exercise changes the level of abstractness at which individuals think about a health behavior. 
 
