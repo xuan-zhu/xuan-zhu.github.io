@@ -33,7 +33,7 @@ Academic Employment
 * **Research Associate** (11/2019 -- Present)  
   * Mayo Clinic, Department of Health Sciences Research, Division of Health Care Policy and Research
 
-* **Research Fellow** (08/2017 -- Present)  
+* **Research Fellow** (08/2017 -- 11/2019)  
   * Mayo Clinic, Department of Health Sciences Research, Division of Health Care Policy and Research
   * Primary Mentors: Carmen Radecki Breitkopf, PhD (Till 04/2019); Lila Finney Rutten, PhD (Since 05/2019)
     * Lead the development of survey instruments for multiple projects, including a community-based participatory research project that aims to develop cancer control plans for two American Indian communities in rural Minnesota
