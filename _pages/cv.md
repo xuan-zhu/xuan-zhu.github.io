@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://xuan-zhu.github.io/files/XuanZhu_CV-101919.pdf" target="_blank">View the PDF version here</a>
+<a href="https://xuan-zhu.github.io/files/XuanZhu_CV-111719.pdf" target="_blank">View the PDF version here</a>
 
 <h1 align="center"><b>Xuan Zhu</b></h1>
 <p align="center">zhu.xuan@mayo.edu | <a href="https://xuan-zhu.github.io" target="_blank">xuan-zhu.github.io</a></p>
