@@ -69,7 +69,7 @@ Work in Progress
 Grants & Competitive Funding
 ------
 * **Ongoing Research Support** 
-  * Rural Cancer Control supplement to Mayo Clinic Comprehensive Cancer Center Support Grant (P30 CA15083-44 / P30 CA15083-45): Developing a Cancer Control Plan with Two Native Communities (09/01/2018 -- 02/29/2020; Principal Investigator: Robert Diasio)
+  * Rural Cancer Control supplement to Mayo Clinic Comprehensive Cancer Center Support Grant (3P30 CA15083-44S3/45S1): Developing a Cancer Control Plan with Two Native Communities (09/01/2018 -- 02/29/2020; Principal Investigator: Robert Diasio)
     * Role: Co-Investigator
     * This project aims to develop a comprehensive rural cancer control program collaboratively with two American Indian/Alaska Native communities in rural Minnesota to reduce cancer disparities.
   * Time-Sharing Experiments for the Social Sciences (TESS) grant (2019)
