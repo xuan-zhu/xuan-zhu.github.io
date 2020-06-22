@@ -35,15 +35,6 @@ Academic Employment
 
 * **Research Fellow** (08/2017 -- 11/2019)  
   * Mayo Clinic, Department of Health Sciences Research, Division of Health Care Policy and Research
-  * Primary Mentors: Carmen Radecki Breitkopf, PhD (Till 04/2019); Lila Finney Rutten, PhD (Since 05/2019)
-    * Lead the development of survey instruments for multiple projects, including a community-based participatory research project that aims to develop cancer control plans for two American Indian communities in rural Minnesota
-    * Conduct data analysis, result interpretation, and finding reporting for multiple projects focusing on reducing cancer disparities, including projects on understanding racial and ethnic minority populations’ perspectives on cancer clinical research participation
-    * Perform statistical analyses of survey data and thematic analyses of key informant interview and focus group data for multiple projects
-    * Facilitate community survey and interview data collection
-    * Planned and designed research protocols, including surveys and experiments
-    * Prepared and submitted intramural and extramural funding applications, including a NIH R21 research project proposal as a Co-Principle Investigator
-    * Published lead and co-authored peer-reviewed articles in scholarly journals
-    * Presented research findings at national scientific conferences, including oral and poster presentations 
 
 * **Graduate Teaching Assistant** (09/2013 -- 05/2016)
   * University of Minnesota, School of Journalism and Mass Communication
@@ -78,15 +69,15 @@ Grants & Competitive Funding
     * This survey experiment uses a manipulation-of-mediator design to test the mechanism through which self-affirmation (reflecting on one’s core values) reduces individuals’ resistance toward personally relevant health messages in a probability-based sample of US adults. Specifically, it tests whether this effect occurs because completing the self-affirmation exercise changes the level of abstractness at which individuals think about a health behavior. 
 
 * **Completed Research Support**
-  * Ralph D. Casey Dissertation Research Award (2016 -- 2017) -- $5,000
+  * Ralph D. Casey Dissertation Research Award (2016 -- 2017) 
     * School of Journalism and Mass Communication, University of Minnesota 
-  * Doctoral Dissertation Fellowship (2016 -- 2017) -- $23,000	 
+  * Doctoral Dissertation Fellowship (2016 -- 2017) 
     * Graduate School, University of Minnesota
-  * Conference Travel Grant (2016) -- $1,200
+  * Conference Travel Grant (2016)
     * Council of Graduate Students, University of Minnesota
-  * Graduate Research Partnership Program (2015) -- $4,000
+  * Graduate Research Partnership Program (2015)
     *	College of Liberal Arts, University of Minnesota
-  * Kriss Research Fund (2015) -- $1,000
+  * Kriss Research Fund (2015)
     *	School of Journalism and Mass Communication, University of Minnesota
 
 Awards & Fellowships    
@@ -102,15 +93,15 @@ Awards & Fellowships
     *	School of Journalism and Communication, Xi’an International Studies University
     
 * **Fellowships & Scholarships** 
-  * Joel and Laurie Kramer School of Journalism Fund Award (2015) -- $5,000
+  * Joel and Laurie Kramer School of Journalism Fund Award (2015) 
     * School of Journalism and Mass Communication, University of Minnesota
-  * Joel Kramer Health Journalism Fellowship (2014) -- $5,000
+  * Joel Kramer Health Journalism Fellowship (2014) 
     * School of Journalism and Mass Communication, University of Minnesota
-  * Hubbard Summer Research Fellowship (2014) -- $5,000	
+  * Hubbard Summer Research Fellowship (2014) 	
     * School of Journalism and Mass Communication, University of Minnesota
-  * William D. Wells Fellowship (2013) -- $5,000
+  * William D. Wells Fellowship (2013) 
     * School of Journalism and Mass Communication, University of Minnesota
-  * S. Watson and Elizabeth S. Dunn Fellowship (2012) -- $5,000
+  * S. Watson and Elizabeth S. Dunn Fellowship (2012) 
     * College of Media, University of Illinois
   * Outstanding Student Scholarship	(2007; 2008; 2009)
     * School of Journalism and Communication, Xi’an International Studies University
@@ -119,7 +110,7 @@ Teaching Experience
 ------
 * **Mayo Clinic Graduate School of Biomedical Sciences**
   * **Guest Lecture**
-    * *Health Behavior Theory and Application* In Social and Behavioral Foundations of Health in Health Sciences Research (Spring 2019)
+    * *Health Behavior Theory and Application* In Social and Behavioral Foundations of Health in Health Sciences Research (Spring 2019; Spring 2020)
 
 * **University of Minnesota** 
   * **Teaching Assistantships**
