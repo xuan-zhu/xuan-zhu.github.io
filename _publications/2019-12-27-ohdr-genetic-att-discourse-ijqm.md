@@ -5,7 +5,7 @@ permalink: /publication/2019-12-27-ohdr-genetic-att-discourse-ijqm
 excerpt: 'This study aimed to understand genetic research perceptions among members from underrepresented communities by studying discourse and language use in focus group discussions.'
 date: 2019-12-27
 venue: 'International Journal of Qualitative Methods'
-citation: 'Ridgeway, J. L., Albertie, M., Pantoja, E., Prescott, D., Zhu, X., & Radecki Breitkopf, C. Understanding diverse perspectives on genetic research through focus group talk. <i>International Journal of Qualitative Methods</i>. 
+citation: 'Ridgeway, J. L., Albertie, M., Pantoja, E., Prescott, D., Zhu, X., & Radecki Breitkopf, C. (2020). Understanding diverse perspectives on genetic research through focus group talk. <i>International Journal of Qualitative Methods</i>. 
 <a href="https://doi.org/10.1177/1609406919892476" target="_blank">https://doi.org/10.1177/1609406919892476</a>'
 ---
 **Abstract:**<br>
