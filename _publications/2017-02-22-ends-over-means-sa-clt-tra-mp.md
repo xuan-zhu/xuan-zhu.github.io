@@ -5,7 +5,7 @@ permalink: /publication/2017-02-22-ends-over-means-sa-clt-tra
 excerpt: 'Integrating construal level theory and reasoned action theory, this research tested two hypotheses: first, self-affirmation affects the abstractness of how people construe behavioral choices, and second, self-affirmation influences the associations between intention and its key determinants.'
 date: 2017-02-22
 venue: 'Media Psychology'
-citation: 'Zhu X., Yzer M. (2019). Ends over means: Self-affirmation strengthens attitudinal and weakens perceived control effects on behavioral intention. <i>Media Psychology</i>. <a href="https://doi.org/10.1080/15213269.2017.1282875" target="_blank"> https://doi.org/10.1080/15213269.2017.1282875</a>'
+citation: 'Zhu X., Yzer M. (2017). Ends over means: Self-affirmation strengthens attitudinal and weakens perceived control effects on behavioral intention. <i>Media Psychology</i>. <a href="https://doi.org/10.1080/15213269.2017.1282875" target="_blank"> https://doi.org/10.1080/15213269.2017.1282875</a>'
 ---
 
 **Abstract:**<br> 
