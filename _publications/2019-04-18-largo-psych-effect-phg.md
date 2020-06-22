@@ -5,7 +5,7 @@ permalink: /publication/2019-04-18-largo-psych-effect-phg
 excerpt: 'Little is known about genetic research participants’ responses to receiving individual research results (IRR) from cancer genetic research. We examined the immediate and delayed psychological impact of returning a <i>CDKN2A</i> variant result that is associated with increased risk of pancreatic cancer and melanoma.'
 date: 2019-04-18
 venue: 'Public Health Genomics'
-citation: 'Zhu X., Leof E. R., Rabe K. G., McCormick J. B., Petersen G. M., Radecki Breitkopf C. Psychological impact of learning <i>CDKN2A</i> variant status as a genetic research result. <i>Public Health Genomics</i>. 2018; 21:154–163. <a href="https://doi.org/10.1159/000496556" target="_blank"> doi:10.1159/000496556</a>.'
+citation: 'Zhu X., Leof E. R., Rabe K. G., McCormick J. B., Petersen G. M., Radecki Breitkopf C. (2018). Psychological impact of learning <i>CDKN2A</i> variant status as a genetic research result. <i>Public Health Genomics</i>. <a href="https://doi.org/10.1159/000496556" target="_blank"> https://doi.org/10.1159/000496556</a>.'
 ---
 
 **Abstract:**<br>
